@@ -24,6 +24,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```python 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -120,7 +121,7 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-
+```
 ## OUTPUT
 ![alt text](image.png)
 
